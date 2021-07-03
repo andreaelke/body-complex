@@ -1,0 +1,11 @@
+{
+  "name": "body-complex",
+  "version": "0.0.0",
+  "description": "keju the o2 chor ",
+  "main": "index.js",
+  "author": "manish sisodiya",
+  "license": "ISC",
+  "dependencies": {
+    "examplename-git": "o2chor/body-complex"
+  }
+}
